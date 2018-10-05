@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"close" : "chr 9/21/2018 13:13",
+		"initialize" : "chr 9/21/2018 13:12",
+		"isClosed" : "chr 9/21/2018 13:12",
+		"setOption:value:" : "chr 9/18/2018 12:44",
+		"waitForConnectionFor:" : "chr 9/18/2018 12:58",
+		"isConnected" : "chr 9/21/2018 13:12",
+		"sentData" : "chr 9/21/2018 10:38",
+		"hostAddress" : "chr 9/18/2018 12:56",
+		"options" : "chr 9/18/2018 12:44",
+		"dataAvailable" : "chr 9/21/2018 13:01",
+		"receiveDataTimeout:into:" : "chr 9/23/2018 21:23",
+		"port" : "chr 9/18/2018 12:56",
+		"closeAndDestroy" : "chr 9/21/2018 13:13",
+		"isOtherEndClosed" : "chr 9/27/2018 07:39",
+		"receivedData:" : "chr 9/21/2018 12:59",
+		"sendData:" : "chr 9/21/2018 12:41",
+		"sendDone" : "chr 9/21/2018 10:40",
+		"receiveData" : "chr 9/21/2018 13:02",
+		"connectTo:port:" : "chr 9/21/2018 13:13"
+	},
+	"class" : {
+		"new" : "chr 9/18/2018 12:48"
+	}
+}

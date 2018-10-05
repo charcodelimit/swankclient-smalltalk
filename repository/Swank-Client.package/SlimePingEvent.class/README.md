@@ -1,0 +1,1 @@
+Slime event that expects a SlimePongCommand response

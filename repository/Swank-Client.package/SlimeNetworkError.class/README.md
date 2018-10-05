@@ -1,0 +1,1 @@
+An error in the network connection to the Swank server

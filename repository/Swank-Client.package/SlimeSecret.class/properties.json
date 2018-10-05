@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:58",
+	"super" : "SlimeMessage",
+	"category" : "Swank-Client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"secret"
+	],
+	"name" : "SlimeSecret",
+	"type" : "normal"
+}

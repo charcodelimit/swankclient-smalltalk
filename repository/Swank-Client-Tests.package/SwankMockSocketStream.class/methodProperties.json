@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"next" : "chr 9/30/2018 22:21",
+		"setReceivedData:" : "chr 10/1/2018 07:54",
+		"socket:" : "chr 10/1/2018 07:50",
+		"isOtherEndConnected" : "chr 9/30/2018 22:01",
+		"socket" : "chr 9/30/2018 21:53",
+		"resetInStream" : "chr 10/5/2018 20:41",
+		"getSentData" : "chr 10/5/2018 19:24",
+		"isConnected" : "chr 9/30/2018 22:00",
+		"nextPut:" : "chr 10/5/2018 19:22",
+		"nextPutAll:" : "chr 10/5/2018 19:22",
+		"isDataAvailable" : "chr 10/1/2018 07:53",
+		"next:" : "chr 9/30/2018 22:23"
+	},
+	"class" : {
+		"openConnectionToHost:port:" : "chr 10/1/2018 07:48"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:52",
+	"super" : "Error",
+	"category" : "Swank-Client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SlimeError",
+	"type" : "normal"
+}

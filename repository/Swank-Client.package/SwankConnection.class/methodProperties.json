@@ -1,0 +1,42 @@
+{
+	"instance" : {
+		"eventFactory" : "chr 9/20/2018 14:36",
+		"startDispatching" : "chr 10/3/2018 12:49",
+		"close" : "chr 10/3/2018 12:46",
+		"stream:" : "chr 9/30/2018 16:42",
+		"initialize" : "chr 10/5/2018 19:09",
+		"server" : "chr 9/11/2018 21:33",
+		"stream" : "chr 9/30/2018 16:42",
+		"socketKeepAlive" : "chr 9/30/2018 21:55",
+		"logger" : "chr 9/29/2018 08:36",
+		"sendSecret" : "chr 9/15/2018 17:38",
+		"isConnected" : "chr 9/30/2018 16:47",
+		"isDead" : "chr 9/20/2018 14:11",
+		"dispatchEvent:" : "chr 10/5/2018 20:42",
+		"isClosing" : "chr 9/20/2018 14:11",
+		"openOnServer:" : "chr 10/3/2018 12:45",
+		"ensureConnection" : "chr 10/3/2018 12:50",
+		"isAlive" : "chr 9/20/2018 14:10",
+		"connect" : "chr 10/3/2018 12:50",
+		"lisp" : "chr 9/13/2018 08:16",
+		"utf8Converter" : "chr 9/11/2018 22:03",
+		"initializeLogger" : "chr 9/29/2018 08:36",
+		"send:" : "chr 10/5/2018 19:21",
+		"server:" : "chr 10/3/2018 11:48",
+		"state" : "chr 9/19/2018 19:08",
+		"receiveData" : "chr 9/30/2018 16:53",
+		"reopen" : "chr 10/3/2018 12:51",
+		"disconnect" : "chr 10/3/2018 12:50",
+		"dispatchEvents" : "chr 10/3/2018 12:50",
+		"isListening" : "chr 9/23/2018 21:39"
+	},
+	"class" : {
+		"defaultPortNumber" : "chr 9/30/2018 16:28",
+		"openOnHostNamed:" : "chr 10/3/2018 10:54",
+		"resolveTimeout" : "chr 10/3/2018 11:00",
+		"openOnServer:" : "chr 10/3/2018 12:45",
+		"connectionTimeout" : "chr 9/13/2018 19:42",
+		"openOnHost:port:" : "chr 10/3/2018 12:45",
+		"openOnHostNamed:port:" : "chr 10/3/2018 12:45"
+	}
+}

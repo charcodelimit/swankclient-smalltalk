@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:57",
+	"super" : "SlimeMessage",
+	"category" : "Swank-Client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"thread",
+		"messageId"
+	],
+	"name" : "SlimeEmacsPongCommand",
+	"type" : "normal"
+}

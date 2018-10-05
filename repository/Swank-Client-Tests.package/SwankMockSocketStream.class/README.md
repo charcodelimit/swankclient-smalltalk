@@ -1,0 +1,1 @@
+A test mock for socket streams extended with acces to the raw socket and support for the testing protocol

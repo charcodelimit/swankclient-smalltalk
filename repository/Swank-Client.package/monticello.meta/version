@@ -1,0 +1,1 @@
+(name 'Swank-Client-chr.1' message 'Swank Client - implements the Slime RPC protocol  - allows to connect to a Swank server and interact with e.g. Common Lisp - requires LispKit ' id '1f18c2c3-e233-0d00-86d1-d838078a521f' date '5 October 2018' time '10:22:17.141515 pm' author 'chr' ancestors () stepChildren ())

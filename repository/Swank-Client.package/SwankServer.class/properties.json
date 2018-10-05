@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:59",
+	"super" : "Object",
+	"category" : "Swank-Client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hostname",
+		"inputPort",
+		"outputPort",
+		"homeDirectory"
+	],
+	"name" : "SwankServer",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+A message that sends the shared secret to the Swank server

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:58",
+	"super" : "SlimeEmacsRexCommand",
+	"category" : "Swank-Client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"arguments",
+		"function"
+	],
+	"name" : "SlimeLispFunctionCommand",
+	"type" : "normal"
+}

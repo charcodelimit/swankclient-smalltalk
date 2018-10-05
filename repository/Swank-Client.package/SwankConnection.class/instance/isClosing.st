@@ -1,0 +1,3 @@
+testing
+isClosing
+	^ internalConnectionState = #closing

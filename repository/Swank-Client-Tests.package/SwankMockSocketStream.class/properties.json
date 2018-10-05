@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:50",
+	"super" : "MockSocketStream",
+	"category" : "Swank-Client-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socket"
+	],
+	"name" : "SwankMockSocketStream",
+	"type" : "normal"
+}

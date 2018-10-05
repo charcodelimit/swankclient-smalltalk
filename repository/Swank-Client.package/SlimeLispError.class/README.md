@@ -1,0 +1,1 @@
+An error in the Lisp process of the Swank server

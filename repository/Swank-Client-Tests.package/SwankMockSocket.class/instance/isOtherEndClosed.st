@@ -1,0 +1,3 @@
+socket protocol
+isOtherEndClosed
+	^false

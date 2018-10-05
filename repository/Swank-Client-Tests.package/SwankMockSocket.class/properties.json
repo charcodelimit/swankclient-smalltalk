@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:51",
+	"super" : "Object",
+	"category" : "Swank-Client-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sentData",
+		"receivedDataStream",
+		"options",
+		"hostAddress",
+		"port",
+		"closed",
+		"connected"
+	],
+	"name" : "SwankMockSocket",
+	"type" : "normal"
+}

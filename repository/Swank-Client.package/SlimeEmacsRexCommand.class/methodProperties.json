@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"render:" : "chr 9/28/2018 17:48",
+		"messageId" : "chr 9/19/2018 15:09",
+		"function" : "chr 9/26/2018 16:30",
+		"thread" : "chr 9/19/2018 11:34",
+		"functionWithPackagePrefix:" : "chr 9/28/2018 17:55",
+		"arguments" : "chr 9/26/2018 16:21",
+		"initialize" : "chr 9/27/2018 07:21",
+		"promise" : "chr 9/29/2018 13:54",
+		"messageId:" : "chr 9/19/2018 15:09",
+		"functionHasPackagePrefix" : "chr 9/28/2018 22:48",
+		"value:" : "chr 9/27/2018 21:56"
+	},
+	"class" : { }
+}

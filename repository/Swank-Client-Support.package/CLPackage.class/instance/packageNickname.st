@@ -1,0 +1,3 @@
+accessing
+packageNickname
+	^ packageNickname

@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testHomeDirectory" : "chr 10/5/2018 19:02",
+		"classToBeTested" : "chr 9/18/2018 13:32",
+		"withSecretFile:" : "chr 9/18/2018 13:36",
+		"deleteSecretFile" : "chr 10/5/2018 10:10",
+		"tearDown" : "chr 9/18/2018 13:31",
+		"setUp" : "chr 9/18/2018 13:30",
+		"testOutputPort" : "chr 10/3/2018 10:55",
+		"testSecret" : "chr 10/5/2018 10:00",
+		"createSecretFile" : "chr 10/5/2018 10:10"
+	},
+	"class" : { }
+}

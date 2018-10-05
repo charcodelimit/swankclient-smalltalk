@@ -1,0 +1,1 @@
+Slime Event that returns a result of a command

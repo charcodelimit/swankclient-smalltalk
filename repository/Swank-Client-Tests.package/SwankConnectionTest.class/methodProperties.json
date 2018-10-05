@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"testSendLispFunctionCommand" : "chr 10/5/2018 20:46",
+		"testReturnEvent" : "chr 10/5/2018 20:47",
+		"testSocketNetConnectNoSecret" : "chr 10/5/2018 19:03",
+		"testSocketNetConnectSecret" : "chr 10/5/2018 19:24",
+		"testSendConnectionInfoCommand" : "chr 10/5/2018 20:46",
+		"setUpStream" : "chr 10/3/2018 17:56",
+		"selectorsToBeIgnored" : "chr 9/18/2018 21:02",
+		"classToBeTested" : "chr 9/18/2018 13:27",
+		"testSocketDisconnect" : "chr 10/5/2018 20:37",
+		"setUp" : "chr 10/5/2018 19:09"
+	},
+	"class" : { }
+}

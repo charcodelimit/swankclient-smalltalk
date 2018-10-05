@@ -1,0 +1,1 @@
+Event with information from the debugger

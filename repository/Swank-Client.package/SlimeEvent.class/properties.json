@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "chr 9/19/2018 17:24",
+	"super" : "Object",
+	"category" : "Swank-Client",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"connection"
+	],
+	"name" : "SlimeEvent",
+	"type" : "normal"
+}

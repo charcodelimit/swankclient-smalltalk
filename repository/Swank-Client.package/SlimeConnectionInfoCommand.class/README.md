@@ -1,0 +1,1 @@
+A command that requests information about the Swank server

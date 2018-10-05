@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "chr 10/5/2018 20:51",
+	"super" : "Object",
+	"category" : "Swank-Client-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"packageName",
+		"packageNickname"
+	],
+	"name" : "CLPackage",
+	"type" : "normal"
+}

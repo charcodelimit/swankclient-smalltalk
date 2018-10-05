@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "chr 9/24/2018 21:32",
+	"super" : "ClassTestCase",
+	"category" : "Swank-Client-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"connection"
+	],
+	"name" : "SwankConnectionTest",
+	"type" : "normal"
+}

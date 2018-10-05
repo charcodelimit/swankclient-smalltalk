@@ -1,0 +1,1 @@
+Slime event that updates the current Lisp package
