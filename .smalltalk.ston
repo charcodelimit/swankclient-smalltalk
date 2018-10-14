@@ -1,0 +1,15 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'SwankClient',
+      #directory : 'repository',
+      #platforms : [ #pharo ],
+      #load : [ 'tests' ]
+    }
+  ],
+  #testing : {
+    #exclude : {
+      #classes : [ #SwankConnectionIntegrationTest ]
+    }
+  }
+}

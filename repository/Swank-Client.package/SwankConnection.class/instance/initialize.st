@@ -1,6 +1,6 @@
 initialize-release
 initialize
-	lisp := LispKernel new.
+	lisp := LRLispKernel new.
 	eventFactory := SlimeEventFactory new.
 	utf8Converter := UTF8TextConverter new.
 	state := SwankSessionState new.

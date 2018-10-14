@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "chr 10/14/2018 14:27",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfSwankClient",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfSwankClient",
+	"type" : "normal"
+}

@@ -1,1 +1,1 @@
-Unit Test for the Swank Server
+Unit Test for the class SwankServer

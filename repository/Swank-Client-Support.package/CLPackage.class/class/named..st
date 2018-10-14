@@ -1,3 +1,6 @@
 instance creation
 named: aString
-	self new; packageName: aString; yourself
+	^ self
+		new
+		packageName: aString;
+		yourself
