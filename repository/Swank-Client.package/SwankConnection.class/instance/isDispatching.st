@@ -1,0 +1,3 @@
+testing
+isDispatching
+	^ process notNil

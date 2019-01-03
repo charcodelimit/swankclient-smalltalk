@@ -13,10 +13,10 @@
 		"utf8Converter",
 		"lisp",
 		"mutex",
-		"listenProcess",
 		"eventFactory",
 		"listening",
-		"logger"
+		"logger",
+		"process"
 	],
 	"name" : "SwankConnection",
 	"type" : "normal"

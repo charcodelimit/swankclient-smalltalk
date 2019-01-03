@@ -1,3 +1,3 @@
 testing
 isAlive
-	^ internalConnectionState = #alive
+	^ mutex critical: [ internalConnectionState = #alive ]

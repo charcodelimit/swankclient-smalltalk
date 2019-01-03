@@ -9,6 +9,7 @@
 		"hostname",
 		"inputPort",
 		"outputPort",
+		"socketPath",
 		"homeDirectory"
 	],
 	"name" : "SwankServer",

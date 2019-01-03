@@ -1,8 +1,8 @@
 tests
-testLispFunctionCommand
+testIpcSocketConnection
 	| connection promise resolved |
 	self class mutex
-		critical: [ connection := SwankConnection openOnHostNamed: 'localhost' port: 4005.
+		critical: [ connection := SwankConnection openOnSocketPath: '/tmp/swank-server'.
 			promise := connection send: (SlimeLispFunctionCommand function: #+ arguments: {2 . 3}).
 			resolved := promise waitTimeoutSeconds: 5.
 			self assert: connection isDispatching.

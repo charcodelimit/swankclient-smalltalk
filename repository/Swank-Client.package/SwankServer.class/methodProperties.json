@@ -1,20 +1,23 @@
 {
 	"instance" : {
-		"secret:" : "chr 10/5/2018 18:59",
-		"outputPort:" : "chr 9/13/2018 08:15",
 		"hostname:" : "chr 9/11/2018 21:18",
+		"socketPath" : "chr 1/2/2019 10:17",
+		"hostname" : "chr 9/11/2018 21:19",
+		"outputPort" : "chr 9/13/2018 08:14",
 		"inputPort" : "chr 9/11/2018 21:19",
 		"homeDirectory" : "chr 9/15/2018 17:06",
+		"outputPort:" : "chr 9/13/2018 08:15",
 		"homeDirectory:" : "chr 9/15/2018 17:06",
-		"hostname" : "chr 9/11/2018 21:19",
+		"socketPath:" : "chr 1/2/2019 10:16",
 		"inputPort:" : "chr 9/11/2018 21:18",
-		"outputPort" : "chr 9/13/2018 08:14"
+		"secret:" : "chr 10/5/2018 18:59"
 	},
 	"class" : {
 		"defaultPortNumber" : "chr 9/30/2018 16:27",
 		"unixHomeDirectory" : "chr 10/5/2018 10:14",
 		"host:" : "chr 9/30/2018 16:28",
-		"host:inputPort:" : "chr 9/18/2018 20:50",
-		"slimeSecretFile" : "chr 9/18/2018 19:12"
+		"host:inputPort:" : "chr 1/2/2019 10:16",
+		"slimeSecretFile" : "chr 9/18/2018 19:12",
+		"socketPath:" : "chr 1/2/2019 10:21"
 	}
 }

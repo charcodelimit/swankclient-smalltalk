@@ -1,7 +1,9 @@
 private connection
 sendSecret
-	| secret |
+	| secret cmd message |
 	server homeDirectory
-		ifNotNil: [secret := server secret: server homeDirectory.
+		ifNotNil: [ secret := server secret: server homeDirectory.
 			secret
-				ifNotNil: [self send: (SlimeSecret from: secret)]]
+				ifNotNil: [ cmd := SlimeSecret from: secret.
+					message := cmd render: self state.
+					self sendMessageString: message ] ]

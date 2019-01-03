@@ -1,3 +1,3 @@
 testing
 isDead
-	^ internalConnectionState = #dead
+	^ mutex critical: [ internalConnectionState = #dead ]

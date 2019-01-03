@@ -1,8 +1,9 @@
 {
 	"instance" : {
-		"testLispFunctionCommand" : "chr 10/3/2018 18:32",
-		"testIsAlive" : "chr 10/3/2018 18:59",
-		"testConnecionInfoCommand" : "chr 10/3/2018 18:59"
+		"testLispFunctionCommand" : "chr 12/31/2018 15:31",
+		"testConnectionInfoCommand" : "chr 1/3/2019 17:05",
+		"testIpcSocketConnection" : "chr 1/2/2019 10:31",
+		"testIsAlive" : "chr 10/3/2018 18:59"
 	},
 	"class" : {
 		"mutex" : "chr 9/23/2018 22:21"

@@ -1,3 +1,3 @@
 testing
 isClosing
-	^ internalConnectionState = #closing
+	^ mutex critical: [ internalConnectionState = #closing ]
