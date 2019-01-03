@@ -32,7 +32,19 @@ connection close.
 The above code evaluates the expression `(+ 2 3)` and returns a promise that
 eventually returns the value `5`.
 
-Please be aware of the discussion regarding SLIME security [here](https://github.com/slime/slime/issues/286).
+Please be aware of the discussion regarding SLIME security
+[here](https://github.com/slime/slime/issues/286).
+
+Therefore, it is possible to connect to a Swank server using a Unix domain socket
+like follows:
+
+```Smalltalk
+| connection promise |
+connection := SwankConnection openOnSocketPath: '/tmp/swank-socket'.
+promise := connection send: (SlimeLispFunctionCommand function: #+ arguments: {2. 3}).
+Transcript show: 'Result: ', promise wait asString.
+connection close.
+```
 
 ## License
 
